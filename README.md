@@ -9,7 +9,7 @@ Documentación del desarrollo del segundo desafío evaluativo propuesto.
 Nombre: Lucas Gabriél Sigüenza<br/>
 División: E<br/>
 
-## Proyecto Monta Cargas
+## ProyectO
 ### Imágen del circuito.<br/>
 [![Circuito](https://i.im.ge/2023/06/26/0SnDyX.Circuito.th.png)](https://im.ge/i/0SnDyX)<br/>
 ### Imágen del esquema<br/>
